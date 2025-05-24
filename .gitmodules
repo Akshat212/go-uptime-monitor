@@ -1,0 +1,6 @@
+[submodule "infra"]
+	path = infra
+	url = https://github.com/Akshat212/go-uptime-monitor-infra.git
+[submodule "app"]
+	path = app
+	url = https://github.com/Akshat212/go-uptime-monitor-app.git
