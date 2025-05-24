@@ -47,7 +47,7 @@ A lightweight uptime monitoring application built using **Go**, **Docker**, **AW
 
 ## 🚀 Getting Started
 
-You can deploy this project to your own AWS account using the [infrastructure code](https://github.com/your-username/go-uptime-monitor-infra) and [application source](https://github.com/your-username/go-uptime-monitor-app). Follow the steps in the `infra/README.md` for provisioning resources using Terraform.
+You can deploy this project to your own AWS account using the [infrastructure code](https://github.com/Akshat212/go-uptime-monitor-infra) and [application source](https://github.com/Akshat212/go-uptime-monitor-app). Follow the steps in the `infra/README.md` for provisioning resources using Terraform.
 
 ---
 
@@ -55,8 +55,8 @@ You can deploy this project to your own AWS account using the [infrastructure co
 
 This project is split into two repositories:
 
-1. **Infrastructure (Terraform)** – [`go-uptime-monitor-infra`](https://github.com/your-username/go-uptime-monitor-infra)
-2. **Application (Go + Docker)** – [`go-uptime-monitor-app`](https://github.com/your-username/go-uptime-monitor-app)
+1. **Infrastructure (Terraform)** – [`go-uptime-monitor-infra`](https://github.com/Akshat212/go-uptime-monitor-infra)
+2. **Application (Go + Docker)** – [`go-uptime-monitor-app`](https://github.com/Akshat212/go-uptime-monitor-app)
 
 ---
 
